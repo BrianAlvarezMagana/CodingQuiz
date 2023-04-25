@@ -10,7 +10,7 @@ Using the Bootstrap CSS library, HTML, and JavaScript we created an online timed
 
 ## URL
 
-https://brianalvarezmagana.github.io//
+https
 
 ## Screenshots
 
