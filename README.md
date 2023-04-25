@@ -2,15 +2,15 @@
 
 ## Usage
 
-As a traveler I want to be able to lookup the current and upcoming weather for various cities to prepare my travel gear, 
+As a user I want to be able to test and compare my level of understanding of web development compared to my peers.
 
 ## Description
 
- using the Day.js library, Bootstrap CSS library, and Open Weather API we can display the current and future weather conditions with stats and icons.
+Using the Bootstrap CSS library, HTML, and JavaScript we created an online timed quiz to gauge my progress in the bootcamp compared to my peers.
 
 ## URL
 
-https://brianalvarezmagana.github.io/WeatherAppWeek6/
+https://brianalvarezmagana.github.io//
 
 ## Screenshots
 
@@ -19,7 +19,7 @@ https://brianalvarezmagana.github.io/WeatherAppWeek6/
 
 ## Credits
 
-Brian Alvarez- Magana, chatGPT, ww3schools, stackoverflow, Google, Youtube, Github, Class Work code, BootStrap 
+Brian Alvarez- Magana, chatGPT, ww3schools, stackoverflow, Google, Youtube, Github, Class Work code, and BootStrap. 
 
 ## License
 
